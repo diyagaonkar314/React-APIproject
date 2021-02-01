@@ -1,0 +1,43 @@
+.myform{
+    width: 400px;
+    height: 50px;
+    border: 2px solid darkgray;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.form1{
+    border: black  1px;
+    border-style: inset;
+    border-radius: 3%;
+    padding: 40px;
+    width: 500px;
+    margin-top: 10px;
+    margin-left: 380px;
+    margin-right: 485px;
+    
+    font-weight: 600;
+}
+.btn
+{
+    margin-top: 15px;
+    text-align: center;
+    margin-bottom: 30px;
+    width: 200px;
+}
+h1{
+    font-family: monospace;
+    margin-left: 550px;
+    margin-bottom: 30px;
+    color: rgb(17, 13, 12);
+    font-size: 90x;
+    
+}
+
+.myBtn{
+    margin-left: 80%;
+}
+
+.navbar1{
+    background-color: #550F5D;
+    height: 70px;
+}

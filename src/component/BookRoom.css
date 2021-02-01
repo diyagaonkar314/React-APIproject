@@ -1,0 +1,19 @@
+input[type=text],[type=email], [type=date] ,textarea,select,[type=password]
+{    
+  width: 100%;    
+  padding: 8px 20px;    
+  margin: 8px 0;    
+  display: inline-block;    
+  border: 1px solid #ccc;    
+  border-radius: 4px;    
+  box-sizing: border-box;    
+}  
+
+.Box{
+    margin-top: 50px;
+    border: 2px solid rgb(255, 51, 0) ;
+    width: 20%;
+    
+    height: 455px;
+    border-radius: 5px;
+}

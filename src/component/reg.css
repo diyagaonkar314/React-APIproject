@@ -1,0 +1,31 @@
+.form2{
+    border: black  1px;
+    border-style: inset;
+    border-radius: 3%;
+    padding: 30px;
+    width: 1000px;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 485px;
+    
+    font-weight: 600;
+}
+
+.showError{    
+    border-color: #a94442 !important;    
+    color: #a94442 !important;    
+    margin-bottom: 15px;    
+  }
+
+  input[type=text],[type=email], [type=date] ,textarea,select,[type=password]
+    {    
+      width: 100%;    
+      padding: 8px 20px;    
+      margin: 8px 0;    
+      display: inline-block;    
+      border: 1px solid #ccc;    
+      border-radius: 4px;    
+      box-sizing: border-box;    
+    }  
+
+    

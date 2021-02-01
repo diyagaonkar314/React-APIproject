@@ -1,0 +1,8 @@
+.myBox{
+    width: 400px;
+    
+    height: 610px;
+    border: 2px solid darkgray;
+    border-radius: 10px;
+    margin-top: 10px;
+}

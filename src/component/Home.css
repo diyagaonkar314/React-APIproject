@@ -1,0 +1,44 @@
+.myLink{
+        margin-left: 80%;
+}
+
+.navbar{
+        background-color: #550F5D;
+        height: 70px;
+}
+
+.nav-link:hover{
+        
+       background-color: rgb(255, 51, 0) ;
+       /* width: 150px; */
+        height: 50px;
+	/* cursor: pointer; */
+	border-radius: 5px;
+	display: block;
+	float: left;
+		
+	text-align: center;
+	line-height: 30px;
+	margin: 0 2px; 
+}
+
+.dropdown-item:hover{
+       background-color: rgb(255, 51, 0) ; 
+        /* width: 150px; */
+        height: 40px;
+	/* cursor: pointer; */
+	border-radius: 5px;
+	display: block;
+	float: left;
+		
+	text-align: center;
+	line-height: 30px;
+	margin: 0 2px; 
+}
+
+.myDiv{
+        margin: 1px;
+}
+
+
+
